@@ -43,3 +43,5 @@ class Post < ApplicationRecord
   validates :time, inclusion: { in: times.keys }
 end
 ```
+
+rubymine高機能すぎて使いこなせている感じがしない、、、
